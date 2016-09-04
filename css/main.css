@@ -1,0 +1,23 @@
+.caja{
+	border:1px solid #000;
+	background: gray;
+	width: 100px;
+	height: 100px;
+	margin-right: 10px;
+}
+.caja:last-child{
+	margin-right: 0px;
+}
+.caja-grande{
+	border:1px solid #000;
+	background: gray;
+	padding: 10px;
+	width: 340px;
+	margin-top: 10px;
+}
+.caja-inline{
+	display: inline-block;
+}
+.caja-margin{
+	margin-top: 10px;
+}
